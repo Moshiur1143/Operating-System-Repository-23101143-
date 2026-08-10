@@ -1,4 +1,4 @@
-# Operating System Repository
+# Operating System Lab Repository
 
 This repository contains all Operating System lab assignments.
 
