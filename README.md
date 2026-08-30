@@ -1,6 +1,6 @@
 # Operating System Lab Repository
 
-This repository contains all Operating System lab assignments.
+This repository contains all Operating System lab tasks.
 
 ## Labs
 
