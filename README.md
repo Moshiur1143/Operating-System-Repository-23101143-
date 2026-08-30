@@ -7,3 +7,4 @@ This repository contains all Operating System lab assignments.
 - Lab 02 - FCFS Implementation
 - Lab 03 - SJF Comparison with FCFS
 - LAB 04 - ROUND ROBIN CPU Scheduling
+- LAB 05 - SJF Preemptive
