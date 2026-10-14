@@ -10,3 +10,4 @@ This repository contains all Operating System lab tasks.
 - LAB 05 - SJF Preemptive
 - LAB 06 - Priority-Premptive-and-NonPreemptive
 - Lab 07 - Disk-Scheduling
+- Lab-08 - Page Replacement Algorithm vs FIFO
