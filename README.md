@@ -9,3 +9,4 @@ This repository contains all Operating System lab tasks.
 - LAB 04 - ROUND ROBIN CPU Scheduling
 - LAB 05 - SJF Preemptive
 - LAB 06 - Priority-Premptive-and-NonPreemptive
+- Lab 07 - Disk-Scheduling
